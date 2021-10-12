@@ -2,3 +2,6 @@
 Sort Algorithms
 
 Comb Sort
+Gnome Sort
+Shaker Sort
+Stooge Sort
